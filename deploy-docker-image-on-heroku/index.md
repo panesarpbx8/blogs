@@ -1,5 +1,6 @@
 ---
 title: Deploy Docker image on Heroku
+slug: deploy-docker-image-on-heroku
 headline: Docker takes away repetitive tasks and is used throughout the development lifecycle for fast development
 hashtags: [docker, heroku]
 date: 2021-06-30T23:23:56-04:00

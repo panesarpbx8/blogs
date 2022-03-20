@@ -1,5 +1,6 @@
 ---
 title: Server-Side Rendering in Angular
+slug: server-side-rendering-in-angular
 headline: SEO and quick initial page loading with server-side rendering in angular
 hashtags: [angular, ssr]
 date: 2021-06-26T23:23:56-04:00

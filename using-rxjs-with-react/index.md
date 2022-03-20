@@ -1,5 +1,6 @@
 ---
 title: Using RXJS with React
+slug: using-rxjs-with-react
 headline: basic usage of rxjs observables with react and react hooks
 hashtags: [rxjs, react]
 date: 2021-06-01T23:23:56-04:00

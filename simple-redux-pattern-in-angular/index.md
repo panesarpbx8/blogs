@@ -1,5 +1,6 @@
 ---
 title: Simple Redux pattern in Angular
+slug: simple-redux-pattern-in-angular
 headline: Creating a state management solution that follows redux pattern for small angular projects
 hashtags: [angular, redux, rxjs]
 date: 2021-07-11T23:23:56-04:00

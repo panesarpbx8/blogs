@@ -1,5 +1,6 @@
 ---
 title: Integrating Firebase Into Angular
+slug: integrating-firebase-into-angular
 headline: Starter template for adding firebase in angular with firebase hosting
 hashtags: [angular, firebase]
 date: 2021-07-15T23:23:56-04:00

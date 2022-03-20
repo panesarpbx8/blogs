@@ -1,5 +1,6 @@
 ---
 title: Using TypeScript with Express
+slug: using-typescript-with-express
 headline: Create solid typescript express starter boilerplate to kickstart your projects
 hashtags: [typescript, express]
 date: 2021-07-06T23:23:56-04:00
